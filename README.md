@@ -48,4 +48,9 @@ How might these insights inform marketing strategies or personalized recommendat
 2.  Encouraging customers to provide feedback or reviews on past purchases can further inform marketing strategies and product recommendations
 3.  Optimizing the website to encourage more conversions from visits to "add_to_cart" and then succesfull check out events could help increase sales.
 
+## Tools/Libraries
+* Python
+* Seaborn
+* Matplotlib
+* Word cloud
 
