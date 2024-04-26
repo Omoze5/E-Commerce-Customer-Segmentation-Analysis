@@ -35,3 +35,17 @@ c.  	**Overall Purchase Behavior**:
 Based on the data provided, what insights can you draw about this customer's overall behavior on the website?
 
 How might these insights inform marketing strategies or personalized recommendations for this customer?
+
+## Key Insights
+* There was a significant amount of traffic or user interactions on the website with 143,154 occurrences between 1st of march, 2024 to 30th, march, 2024.
+* The add to cart button has the highest occcurence with 269,335 occurences but just few lead to a successfully check out with about 134,090 occurences
+* A lot of the add to cart order either failed due to poor site optimization or were cancelled by customers after futile barriers faced during check out
+* Majority of Customers are mostly from Saint Helena.
+* The Canon EOS R5 Camera is the product with the most successfully purchase rate.
+  ![Product Count](https://github.com/Omoze5/E-Commerce-Customer-Segmentation-Analysis/raw/master/product_count.png)
+## Recommendation
+1.  By grouping customers with similar buying patterns or preferences, businesses can tailor their marketing efforts and optimize campaign performance.
+2.  Encouraging customers to provide feedback or reviews on past purchases can further inform marketing strategies and product recommendations
+3.  Optimizing the website to encourage more conversions from visits to "add_to_cart" and then succesfull check out events could help increase sales.
+
+
